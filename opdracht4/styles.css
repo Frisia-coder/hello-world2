@@ -1,0 +1,32 @@
+
+body {
+    color: rgb(83, 99, 94);
+    background-color: rgb(252, 221, 164);
+
+   }
+img.photo {
+	border: 1px solid rgb(7, 6, 6);
+	background-color: #f5f1f1;
+	padding: 4px;
+   }   
+
+img.photo1 {
+    border: 1px solid rgb(12, 5, 5);
+    background-color: #f8db5b;
+    padding: 4px;
+   }     
+
+.font { 
+    font-family: 'Lobster', cursive;
+   }
+.font1 {
+    font-family: 'Estonia', cursive;
+   }
+ header {
+    background-image: url("friese flag.png");
+    background-color: #cccccc;
+   }
+
+   h1 {
+    color: blanchedalmond;
+   }
